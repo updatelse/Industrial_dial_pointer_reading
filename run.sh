@@ -1,0 +1,1 @@
+python meter_demo.py --detect_model ./data/model/detect_meter.torchscript --segment_model ./data/model/segment_meter_letterbox.pt --image_path ./data/pic/C240.jpg --yaml_path ./data/config/config_C240.yaml
